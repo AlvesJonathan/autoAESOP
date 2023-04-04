@@ -1,0 +1,10 @@
+{
+    "especial": "Mínimo um caractere especial (ex.: “@“ “#” “!” “%”);",
+    "numero": "Mínimo um número (0 a 9);",
+    "ltMaiuscula": "Mínimo uma letra maiúscula (ABC);",
+    "ltMinuscula": "Mínimo uma letra minúscula (abc);",
+    "minCaracteres": "Mínimo 8 caracteres.",
+    "novEmail": "Desejo receber novidades da Aesop por email",
+    "dispInfo": "Desejo disponibilizar minhas informações de email e telefone com a Aesop",
+    "termos": "Li e concordo com os termos de uso e política de privacidade"
+}

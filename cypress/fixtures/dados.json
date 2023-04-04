@@ -1,0 +1,14 @@
+{
+  "urlCadastro": "https://www.aesop.com.br/cadastre-se",
+  "urlLogin": "https://www.aesop.com.br/login?redirect=%2F",
+  "urlDados": "https://www.aesop.com.br/meus-dados",
+  "nome": "Aesop",
+  "sobrenome": "Brasil",
+  "email": "aesop02@teste.com",
+  "senha": "Senh@F0rT3%6",
+  "cpf": "981.286.450-48",
+  "dtNascimento": "05/01/1992",
+  "telefone": "61991234599",
+  "break": 1000,
+  "longBreak": 5000
+}
