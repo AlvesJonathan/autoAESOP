@@ -2,7 +2,7 @@
 //import faker from 'faker'
 
 
-context('Cadastrar usuário com o preenchimento de todos os campos.', () => {
+context('Validar o cadastro salvo do usuário', () => {
 
     beforeEach(function () {
         cy.visit('/')
